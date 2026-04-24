@@ -1,0 +1,52 @@
+{
+  "albums": [
+    {
+      "slug": "architecture-ep",
+      "title": "Architecture EP",
+      "artist": "DLZ Orchestra",
+      "year": 2026,
+      "cover": "/images/PenRose1.svg",
+      "type": "ep",
+      "description": "Electronic instrumentals built with Digitakt, MT50, and Zoom H6."
+    },
+    {
+      "slug": "small-components-ep",
+      "title": "Small Components EP",
+      "artist": "Steve",
+      "year": 2026,
+      "cover": "/images/PenRose1.svg",
+      "type": "ep",
+      "description": "Ambient interludes and sonic explorations."
+    }
+  ],
+  "tracks": [
+    {
+      "id": "track27",
+      "title": "Track27",
+      "artist": "DLZ Orchestra",
+      "album": "Architecture EP",
+      "albumSlug": "architecture-ep",
+      "year": 2026,
+      "file": "/music/Track27.mp3",
+      "duration": 185,
+      "cover": "/images/PenRose1.svg",
+      "notes": "Digitakt → MT50 → Zoom H6",
+      "tags": ["electronic", "instrumental"],
+      "type": "track"
+    },
+    {
+      "id": "arc",
+      "title": "Arc",
+      "artist": "Steve",
+      "album": "Small Components EP",
+      "albumSlug": "small-components-ep",
+      "year": 2026,
+      "file": "/music/architecture.mp3",
+      "duration": 36,
+      "cover": "/images/PenRose1.svg",
+      "notes": "Ambient interlude",
+      "tags": ["ambient"],
+      "type": "track"
+    }
+  ]
+}
