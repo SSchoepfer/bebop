@@ -17,6 +17,15 @@
       "cover": "/images/PenRose1.svg",
       "type": "ep",
       "description": "Ambient interludes and sonic explorations."
+    },
+    {
+      "slug": "live-from-the-stew-7-15-26",
+      "title": "Live From the Stew 7/15/26",
+      "artist": "Dinosaur Warlordz",
+      "year": 2026,
+      "cover": "https://archive.org/download/DLZ2026-07-15.DLZ2026-07-15/REASONABLE%20REBELZ-%20july%2015%202026%20DLZ.png",
+      "type": "single",
+      "description": "Live recording at Primordial Stew, 2026-07-15."
     }
   ],
   "tracks": [
@@ -46,6 +55,20 @@
       "cover": "/images/PenRose1.svg",
       "notes": "Ambient interlude",
       "tags": ["ambient"],
+      "type": "track"
+    },
+    {
+      "id": "reasonable-rebelz",
+      "title": "Reasonable Rebelz",
+      "artist": "Dinosaur Warlordz",
+      "album": "Live From the Stew 7/15/26",
+      "albumSlug": "live-from-the-stew-7-15-26",
+      "year": 2026,
+      "file": "https://archive.org/download/DLZ2026-07-15.DLZ2026-07-15/REASONABLE%20REBELZ-%20july%2015%202026%20DLZ.mp3",
+      "duration": 928,
+      "cover": "https://archive.org/download/DLZ2026-07-15.DLZ2026-07-15/REASONABLE%20REBELZ-%20july%2015%202026%20DLZ.png",
+      "notes": "Live at Primordial Stew, 2026-07-15",
+      "tags": ["live"],
       "type": "track"
     }
   ]
