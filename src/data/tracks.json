@@ -26,6 +26,15 @@
       "cover": "https://archive.org/download/DLZ2026-07-15.DLZ2026-07-15/REASONABLE%20REBELZ-%20july%2015%202026%20DLZ.png",
       "type": "single",
       "description": "Live recording at Primordial Stew, 2026-07-15."
+    },
+    {
+      "slug": "dlz-live-11-18-23",
+      "title": "DLZ Live 11/18/23",
+      "artist": "Dinosaur Warlordz",
+      "year": 2023,
+      "cover": "https://archive.org/download/DLZ2026-07-15.DLZ2026-07-15/REASONABLE%20REBELZ-%20july%2015%202026%20DLZ.png",
+      "type": "single",
+      "description": "Live recording at Primordial Stew, 2023-11-18."
     }
   ],
   "tracks": [
@@ -68,6 +77,20 @@
       "duration": 928,
       "cover": "https://archive.org/download/DLZ2026-07-15.DLZ2026-07-15/REASONABLE%20REBELZ-%20july%2015%202026%20DLZ.png",
       "notes": "Live at Primordial Stew, 2026-07-15",
+      "tags": ["live"],
+      "type": "track"
+    },
+    {
+      "id": "dlz-live-11-18-23",
+      "title": "DLZ Live 11/18/23",
+      "artist": "Dinosaur Warlordz",
+      "album": "DLZ Live 11/18/23",
+      "albumSlug": "dlz-live-11-18-23",
+      "year": 2023,
+      "file": "https://archive.org/download/DLZ2023-11-18/ZOOM0014_Tr1.mp3",
+      "duration": 877,
+      "cover": "https://archive.org/download/DLZ2026-07-15.DLZ2026-07-15/REASONABLE%20REBELZ-%20july%2015%202026%20DLZ.png",
+      "notes": "Live at Primordial Stew, 2023-11-18",
       "tags": ["live"],
       "type": "track"
     }
