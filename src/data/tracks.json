@@ -7,7 +7,7 @@
       "year": 2026,
       "cover": "/images/PenRose1.svg",
       "type": "ep",
-      "description": "Electronic instrumentals built with Digitakt, MT50, and Zoom H6."
+      "description": "Ambient interludes and sonic explorations."
     },
     {
       "slug": "small-components-ep",
@@ -16,7 +16,7 @@
       "year": 2026,
       "cover": "/images/PenRose1.svg",
       "type": "ep",
-      "description": "Ambient interludes and sonic explorations."
+      "description": "Electronic instrumentals built with Digitakt."
     },
     {
       "slug": "live-from-the-stew-7-15-26",
@@ -42,8 +42,8 @@
       "id": "track27",
       "title": "Track27",
       "artist": "Steve",
-      "album": "Architecture EP",
-      "albumSlug": "architecture-ep",
+      "album": "Small Components EP",
+      "albumSlug": "small-components-ep",
       "year": 2026,
       "file": "/music/Track27.mp3",
       "duration": 185,
@@ -56,8 +56,8 @@
       "id": "arc",
       "title": "Arc",
       "artist": "Steve",
-      "album": "Small Components EP",
-      "albumSlug": "small-components-ep",
+      "album": "Architecture EP",
+      "albumSlug": "architecture-ep",
       "year": 2026,
       "file": "/music/architecture.mp3",
       "duration": 36,
