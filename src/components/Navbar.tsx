@@ -14,6 +14,9 @@ export default function Navbar() {
           <Link href="/tracks" className="hover:text-white transition-colors">
             Tracks
           </Link>
+          <Link href="/live" className="hover:text-white transition-colors">
+            Live
+          </Link>
         </div>
       </div>
     </nav>

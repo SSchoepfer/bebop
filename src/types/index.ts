@@ -5,6 +5,7 @@ export interface Track {
   album: string
   albumSlug: string
   year: number
+  date?: string // ISO "YYYY-MM-DD", set only when a real recording date is known
   file: string
   duration: number
   cover: string

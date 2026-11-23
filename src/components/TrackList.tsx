@@ -71,6 +71,13 @@ export default function TrackList({ tracks }: { tracks: Track[] }) {
               </div>
             </div>
 
+            {/* Date */}
+            {track.date && (
+              <span className="hidden md:block text-xs text-zinc-500 flex-shrink-0 tabular-nums">
+                {track.date}
+              </span>
+            )}
+
             {/* Tags */}
             {track.tags && track.tags.length > 0 && (
               <div className="hidden md:flex gap-1 flex-shrink-0">
